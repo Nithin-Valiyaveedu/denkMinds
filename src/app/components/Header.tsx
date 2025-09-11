@@ -143,7 +143,7 @@ const Header = () => {
 						<Link
 						  href="https://www.linkedin.com/feed/update/urn:li:activity:7294303328836935680/"
 						  target="_blank"
-						  className="w-full bg-blue-700 text-white font-bold py-2 rounded-3xl transition duration-200 hover:opacity-90 text-center block"
+						  className="bg-[#080115] hidden md:block text-white font-bold py-2 px-4 rounded-3xl transition duration-200 border-2 border-violet-900"
 						>
 						  Preview Demo
 						</Link>
@@ -247,7 +247,7 @@ const Header = () => {
 								<Link
 								  href="https://www.linkedin.com/feed/update/urn:li:activity:7294303328836935680/"
 								  target="_blank"
-								  className="w-full bg-blue-700 text-white font-bold py-2 rounded-3xl transition duration-200 hover:opacity-90 text-center block"
+									className="bg-[#080115] hidden md:block text-white font-bold py-2 px-4 rounded-3xl transition duration-200 border-2 border-violet-900"
 								>
 								  Preview Demo
 								</Link>
