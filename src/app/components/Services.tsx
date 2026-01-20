@@ -84,29 +84,6 @@ export default function Services() {
 								{service.title}
 							</h3>
 							<p className="text-gray-300 mb-6">{service.description}</p>
-							<a
-								href="http://34.172.202.200:3000/"
-								target="_blank" rel="noreferrer"
-								className="underline-onhover inline-flex items-center text-[#7156db] hover:text-white"
-							>
-								<span className="hover-color-text underline-white">
-									Try App
-								</span>
-								<svg
-									className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform"
-									fill="none"
-									viewBox="0 0 24 24"
-									stroke="currentColor"
-								>
-									<title>Arrow Icon</title>
-									<path
-										strokeLinecap="round"
-										strokeLinejoin="round"
-										strokeWidth={2}
-										d="M9 5l7 7-7 7"
-									/>
-								</svg>
-							</a>
 						</motion.div>
 					))}
 				</div>
