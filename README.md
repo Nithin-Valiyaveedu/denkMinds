@@ -1,4 +1,4 @@
-# MIRA – Cybersecurity Project
+# MIRA – Cybersecurity AI Chatbot Project
 
 ## 🔒 Overview
 **MIRA** is a cybersecurity project built to demonstrate and explore innovative approaches to security awareness, defense strategies, and real-time interaction with threat simulations.  
@@ -6,8 +6,9 @@ The landing page for MIRA is called **Denkminds**, where visitors can learn abou
 
 ## 🌐 Live Preview
 👉 [Preview Demo](https://www.linkedin.com/feed/update/urn:li:activity:7294303328836935680/)  
+👉 [Product Demo](https://denk-minds.vercel.app/)  
 
-The preview demo is also embedded in the website for quick exploration.
+The preview demo is also embedded in the website for quick exploration. Due to cybersecurity infrastructural cost, the product site is available on request basis. 
 
 ## 🧩 Features
 - Interactive landing page (**Denkminds**) showcasing the project vision.  
